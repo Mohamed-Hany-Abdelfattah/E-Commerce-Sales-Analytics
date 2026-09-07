@@ -16,4 +16,4 @@ Everything is built with native Excel formulas: `SUMIFS`, `COUNTIFS`, `SUMPRODUC
 
 ## Author
 
-[Mohamed Hany](https://github.com/Mohamedhany-star)
+[Mohamed Hany](https://github.com/Mohamed-Hany-Abdelfattah)
