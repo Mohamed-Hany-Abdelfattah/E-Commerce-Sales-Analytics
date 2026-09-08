@@ -17,6 +17,12 @@ Raw_Data  →  Summary  →  Dashboard
 
 Every KPI and chart is formula-linked back to the raw sheet, so the dashboard refreshes automatically whenever the source data changes.
 
+## 📸 Dashboard Preview
+
+> Live view of the **Dashboard** sheet — KPI cards + interactive charts built with native formulas.
+
+![E-Commerce Dashboard Preview](images/e-commerce-dashboard.png)
+
 ---
 
 ## 🗂️ Workbook Contents (3 Sheets)
