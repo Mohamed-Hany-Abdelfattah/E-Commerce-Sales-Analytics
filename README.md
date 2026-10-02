@@ -41,11 +41,11 @@ Live breakdowns, all computed with native formulas:
 | Sales by Month | `SUMIFS` + date logic |
 | Sales by Customer Type | `COUNTIFS` / `SUMIFS` |
 | Product Performance | `SUMIFS` + ranking |
-| Top 5 Products | `LARGE` + `INDEX/MATCH` |
+| Top Products | `INDEX/MATCH` / Ranking |
 
 ### Sheet 3 — Dashboard
-- **6 KPI cards** — Total Sales, Total Orders, Avg Order Value, Top Category, Top Region, Best Channel.
-- **4 interactive charts** — category, channel, monthly trend, and product performance.
+- **6 KPI cards** — Total Sales, Total Orders, Avg Order Value, Total Units, Top Category, Top Product.
+- **4 interactive charts** — Sales by Region, Sales by Category, Sales by Channel, and Monthly Sales.
 - Fully **macro-free**: every element is a live Excel formula or native chart.
 
 ---
@@ -75,5 +75,5 @@ e-commerce-sales-analytics/
 ## 📬 Connect
 
 - **Author:** Mohamed Hany
-- **LinkedIn:** [Mohamed Hany Abdelfattah](https://www.linkedin.com/in/mohamed-hany-abdelfattah)
-- **GitHub:** [Mohamed-Hany-Abdelfattah](https://github.com/Mohamed-Hany-Abdelfattah)
+- **LinkedIn:** [Mohamed Hany Abdelfattah](https://www.linkedin.com/in/mohamed-hany-abdelfattah/)
+- **GitHub:** [Mohamed-Hany-Abdelfattah](https://github.com/Mohamed-Hany-Abdelfattah/)
